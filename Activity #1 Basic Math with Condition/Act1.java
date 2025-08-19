@@ -3,7 +3,7 @@ public class Act1 {
     int dividend = 21;
     int divisor = 7;
 
-    // divide
+    // Get ramainder
     int remainder = dividend % divisor;
 
     // Remainder odd or even
