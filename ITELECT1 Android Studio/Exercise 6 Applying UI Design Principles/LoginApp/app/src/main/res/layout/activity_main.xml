@@ -13,7 +13,7 @@
         android:layout_height="wrap_content"
         android:orientation="vertical"
         android:gravity="center"
-        android:paddingTop="60dp"
+        android:paddingTop="100dp"
         android:layout_alignParentTop="true">
 
         <ImageView
@@ -82,6 +82,7 @@
             android:layout_height="wrap_content"
             android:layout_marginTop="30dp"
             android:text="Login"
+            android:textColor="@color/white"
             android:textStyle="bold"
             android:padding="15dp"
             android:backgroundTint="#063F78"/>
